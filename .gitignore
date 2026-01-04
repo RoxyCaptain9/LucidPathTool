@@ -1,0 +1,26 @@
+# C++ build artifacts
+*.exe
+*.obj
+*.o
+*.pdb
+*.idb
+*.ilk
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Distribution / Installer builds
+build/
+dist/
+*.spec
+Output/
+
+# User settings & IDE
+.vscode/
+.idea/
+*.user
+*.log
+settings.json 
