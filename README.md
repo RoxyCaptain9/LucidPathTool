@@ -2,6 +2,8 @@
 
 **LucidPathTool** is a desktop utility designed to assist with local file searching. It helps you navigate directory structures to find specific files or duplicates, operating entirely offline.
 
+**Video demo:** [Watch on YouTube](https://www.youtube.com/watch?v=NLEzbcBx378)
+
 ### Why I made this?
 Honestly, I got tired of manually digging through folders when I forgot where I saved a file. Or when I accidentally created duplicates in random places. Windows search can be slow or confusing, so I decided to build my own offline tool to solve this.
 
